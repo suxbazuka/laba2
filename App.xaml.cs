@@ -1,6 +1,6 @@
 using System.Windows;
 
-namespace EnemyEditor
+namespace Clicker
 {
     public partial class App : Application
     {
