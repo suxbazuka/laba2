@@ -2,14 +2,13 @@ using EnemyEditor;
 
 namespace Clicker
 {
-    /// <summary>Игровая логика. Окно только вызывает методы и читает состояние.</summary>
     public class CClickerGame
     {
         private readonly EnemySpawner _spawner;
 
         public CPlayer Player { get; private set; }
         public CEnemy CurrentEnemy { get; private set; }
-        public int Stage { get; private set; } // сколько противников побеждено
+        public int Stage { get; private set; } 
 
         public CClickerGame(CEnemyTemplateList templates)
         {

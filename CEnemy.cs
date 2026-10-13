@@ -8,7 +8,7 @@ namespace Clicker
     /// </summary>
     public class CEnemy
     {
-        private const int ModifierPrecision = 1000; // модификатор учитывается с точностью до 0.001
+        private const int ModifierPrecision = 1000;
 
         public string Name { get; private set; }
         public string IconName { get; private set; }
@@ -33,7 +33,6 @@ namespace Clicker
             get { return CurrentHealth.IsZero; }
         }
 
-        /// <summary>Наносит урон. Возвращает true, если противник побеждён.</summary>
         public bool TakeDamage(BigNumber damage)
         {
             if (IsDefeated) return true;
@@ -50,9 +49,6 @@ namespace Clicker
         {
             get { return int.Parse((CurrentHealth * 100 / MaxHealth).ToString()); }
         }
-
-        // base * modifier^stage. Модификатор переводим в дробь n/1000
-        // и возводим числитель и знаменатель в степень, чтобы не накапливать ошибку округления.
         private static BigNumber Scale(int baseValue, double modifier, int stage)
         {
             if (baseValue <= 0 || modifier <= 0) return BigNumber.Zero;
