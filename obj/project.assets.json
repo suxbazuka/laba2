@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AndreyCherpinscky\\Documents\\infa\\laba2\\EnemyEditor.csproj",
-      "projectName": "EnemyEditor",
-      "projectPath": "C:\\Users\\AndreyCherpinscky\\Documents\\infa\\laba2\\EnemyEditor.csproj",
+      "projectUniqueName": "C:\\Users\\AndreyCherpinscky\\Documents\\infa\\laba2\\Clicker.csproj",
+      "projectName": "Clicker",
+      "projectPath": "C:\\Users\\AndreyCherpinscky\\Documents\\infa\\laba2\\Clicker.csproj",
       "packagesPath": "C:\\Users\\AndreyCherpinscky\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\AndreyCherpinscky\\Documents\\infa\\laba2\\obj\\",
       "projectStyle": "PackageReference",

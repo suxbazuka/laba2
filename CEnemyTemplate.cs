@@ -37,7 +37,6 @@ namespace EnemyEditor
             SpawnChance = spawnChance;
         }
 
-        // НОВЫЙ МЕТОД: для обновления данных существующего врага
         public void Update(string name, string iconName, int baseLife,
             double lifeModifier, int baseGold, double goldModifier, double spawnChance)
         {
