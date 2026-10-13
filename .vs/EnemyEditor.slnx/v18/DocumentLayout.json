@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suxbazuka\\Documents\\Github\\lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A22BC24-5E7E-BECC-B856-D3E270BD5DED}|EnemyEditor.csproj|c:\\users\\suxbazuka\\documents\\github\\lab1\\cenemytemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A22BC24-5E7E-BECC-B856-D3E270BD5DED}|EnemyEditor.csproj|solutionrelative:cenemytemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A22BC24-5E7E-BECC-B856-D3E270BD5DED}|EnemyEditor.csproj|c:\\users\\suxbazuka\\documents\\github\\lab1\\enemyicon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A22BC24-5E7E-BECC-B856-D3E270BD5DED}|EnemyEditor.csproj|solutionrelative:enemyicon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A22BC24-5E7E-BECC-B856-D3E270BD5DED}|EnemyEditor.csproj|c:\\users\\suxbazuka\\documents\\github\\lab1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A22BC24-5E7E-BECC-B856-D3E270BD5DED}|EnemyEditor.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A22BC24-5E7E-BECC-B856-D3E270BD5DED}|EnemyEditor.csproj|c:\\users\\suxbazuka\\documents\\github\\lab1\\cenemytemplatelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A22BC24-5E7E-BECC-B856-D3E270BD5DED}|EnemyEditor.csproj|solutionrelative:cenemytemplatelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\suxbazuka\\Documents\\Github\\lab1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\suxbazuka\\Documents\\Github\\lab1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAwKgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T13:27:35.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyIcon.cs",
+              "DocumentMoniker": "C:\\Users\\suxbazuka\\Documents\\Github\\lab1\\EnemyIcon.cs",
+              "RelativeDocumentMoniker": "EnemyIcon.cs",
+              "ToolTip": "C:\\Users\\suxbazuka\\Documents\\Github\\lab1\\EnemyIcon.cs",
+              "RelativeToolTip": "EnemyIcon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T13:23:58.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CEnemyTemplateList.cs",
+              "DocumentMoniker": "C:\\Users\\suxbazuka\\Documents\\Github\\lab1\\CEnemyTemplateList.cs",
+              "RelativeDocumentMoniker": "CEnemyTemplateList.cs",
+              "ToolTip": "C:\\Users\\suxbazuka\\Documents\\Github\\lab1\\CEnemyTemplateList.cs",
+              "RelativeToolTip": "CEnemyTemplateList.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T13:23:29.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CEnemyTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\suxbazuka\\Documents\\Github\\lab1\\CEnemyTemplate.cs",
+              "RelativeDocumentMoniker": "CEnemyTemplate.cs",
+              "ToolTip": "C:\\Users\\suxbazuka\\Documents\\Github\\lab1\\CEnemyTemplate.cs",
+              "RelativeToolTip": "CEnemyTemplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T13:14:39.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
